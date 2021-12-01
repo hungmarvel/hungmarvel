@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://evynw.github.io/sileo/assets/header_MASQ.png",
+  "headerImage": "https://hungmarvel.github.io/sileo/assets/header_MASQ.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -35,11 +35,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.jona.mcjj2m/ss1.png"
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.jona.mcjj2m/ss1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://evynw.github.io/depictions/screenshots/com.jona.mcjj2m/ss2.png"
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.jona.mcjj2m/ss2.png"
             }
           ]
         },
@@ -96,27 +96,27 @@
           "spacing": 16
         },
         {
-          "action": "https://twitter.com/ev_ynw",
+          "action": "https://twitter.com/hungmarvel",
           "class": "DepictionTableButtonView",
-          "title": "Find me on Twitter (@ev_ynw)",
+          "title": "Theo dõi tôi trên Twitter (hungmarvel)",
           "openExternal": true
         },
         {
-          "action": "mailto:ev.ynam.w@gmail.com",
+          "action": "mailto:hungmarvel@gmail.com",
           "class": "DepictionTableButtonView",
-          "title": "Send me an email"
+          "title": "Báo lỗi qua email"
         },
         {
-          "action": "https://paypal.me/evynw",
+          "action": "https://paypal.me/hungmarvel",
           "class": "DepictionTableButtonView",
-          "title": "Buy me a 🍺 via PayPal"
+          "title": "Ủng hộ tôi 🍺 qua PayPal"
         },
         {
           "class": "DepictionSpacerView",
           "spacing": 40
         },
         {
-          "URL": "https://evynw.github.io/CydiaIcon.png",
+          "URL": "https://hungmarvel.github.io/CydiaIcon.png",
           "alignment": 1,
           "class": "DepictionImageView",
           "cornerRadius": 0,
