@@ -1,18 +1,18 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Find me on Twitter</name>
-			<url>https://twitter.com/ev_ynw</url>
+			<name>Theo dõi tôi trên Twitter</name>
+			<url>https://twitter.com/hungmarvel</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Send me an email</name>
-			<url>mailto:ev.ynam.w@gmail.com</url>
+			<name>Báo lỗi qua email</name>
+			<url>mailto:hungmarvel@gmail.com</url>
 			<iconclass>fa fa-envelope-open</iconclass>
 		</link>
 		<link>
-	    <name>Buy me a coffee/beer</name>
-	    <url>https://www.paypal.me/evynw</url>
+	    <name>Ủng hộ tôi coffee/beer</name>
+	    <url>https://www.paypal.me/hungmarvel</url>
 			<iconclass>fa fa-paypal</iconclass>
 	  </link>
 	</footerlinks>
