@@ -1,0 +1,25 @@
+@ -1,24 +0,0 @@
+{
+  "name": "Zebra",
+  "package": "com.hungmarvel.zebra",
+  "author": "Wilson Styres",
+  "version": "1.1.22",
+  "dependency": "Trình quản lý các gói",
+  "minOSVersion": "9.0",
+  "maxOSVersion": "14.0",
+  "otheriOS": "untested",
+  "description": "<div>Đây là một trình quản lý các gói tinh chỉnh từ các nguồn do DEV tạo ra, nó cũng giống như Sileo và Cydia. Hay ở đây trình quản lý này có giao diện khá đẹp mắt và nhiều chức năng tinh chỉnh khác!!<br><br><strong>Bạn cần giúp đỡ?</strong> Liên kết để kết nối với tôi đã được ghim bên dưới mục mô tả này</div>",
+  "changelog": {
+    "1.0-1": [
+      "Đây là bản cập nhật mới nhất của Zebra"
+    ],
+    "1.0": [
+      "Initial release"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}
