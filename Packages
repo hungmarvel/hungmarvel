@@ -1,72 +1,17 @@
-Package: com.hungmarvel.amlich
+Package: com.evynw.ew1msgbubbles
+Version: 1.1
 Architecture: iphoneos-arm
-Version: 0.1
-Section: Tinh chỉnh
-Maintainer: Hùng Marvel 🦄
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hungmarvel.amlich_0.1_iphoneos-arm.deb
-Size: 56004
-MD5sum: b1e0eee32c2c6d14844e34d43e4132fd
-SHA1: 2e7b0d3e06e7be5f54efce4d0b53d44fcc87ddf9
-SHA256: a52b9455ba13eff61cfce85731f8e902164bcf671193149ede591b475d8e8bfc
-SHA512: 25afda4207a1e1c6f6b90c399177af1627ea0a6b87083ebaed2da86fdc4d520382e8529a8c94d03e420854b5960ea5acf527544b84180eb6525de7241e22aeb3
-Description: Thêm âm lịch vào thanh trạng thái của bạn
-Name: Âm Lịch
-Author: Hùng Marvel🦄
-Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.amlich
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/N95.png
-
-Package: com.hungmarvel.libhdev
-Architecture: iphoneos-arm
-Version: 4.8.1
-Section: Hệ thống
-Maintainer: Hùng Marvel 🦄
-Depends: mobilesubstrate, preferenceloader, firmware (>= 12)
-Filename: ./debs/com.hungmarvel.libhdev_4.8.1_iphoneos-arm.deb
-Size: 76748
-MD5sum: 4e12cf84ffbee9d06be000aee0b3cf11
-SHA1: 3a7fff7b13cf62c6d4f5ea97cdb50e416f388532
-SHA256: f629c4aec5a4d0dac826b63293d8d385d72ad47c8b4c38d4642edf826bd9b45f
-SHA512: 070a3c8d1fd790aa49948960793e969f08bd62a9f82e54519de971f9c0934750bd7c825ce33d8356f7dacd35fc92f7490f0137926dd66c7c97133d0f0e1b3ec5
-Description: Đây là thư viện dành cho nhà phát triển để có các tùy chọn tốt hơn và các tiện ích hữu ích.
-Name: libhdev
-Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.libhdev
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/N95.png
-Author: Hùng Marvel 🦄
-
-Package: com.hungmarvel.tiktokgod
-Architecture: iphoneos-arm
-Version: 2.1.0
-Section: Tinh chỉnh
-Maintainer: Hùng Marvel 🦄
-Depends: mobilesubstrate, preferenceloader, com.hungmarvel.libhdev (>= 4.8.1), firmware (>= 12)
-Filename: ./debs/com.hungmarvel.tiktokgod_2.1.0_iphoneos-arm.deb
-Size: 61498
-MD5sum: 0f1adeaf84cf5ea58cad0ef47676aa2b
-SHA1: 8e3ae2eed625e891ec809e2153ea1c75b1728734
-SHA256: f3727a3f8cde6d4ae3f7fed959ec913b3554c22e2fa193a068a01e05c28cb001
-SHA512: 0caf96e32f33f71547596f6de7867d534ca2e98ac6218de302a118b99ba832ea4f9a9db916402be14bcbd7d0fc08ea7c40e1411bcf591517383fa10f8e0a2075
-Description: Cho phép tải video không có logo và video không được phép tải
-Name: TikTok God
-Author: Hao Nguyen
-Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.tiktokgod
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/N95.png
-
-Package: com.hungmarvel.zebra
-Architecture: iphoneos-arm
-Version: 1.1.22
-Section: Cửa hàng
-Maintainer: Hùng Marvel 🦄
-Depends: dpkg, uikittools, firmware (>= 9.0)
-Filename: ./debs/com.hungmarvel.zebra_1.1.22_iphoneos-arm.deb
-Size: 9750356
-MD5sum: 827200ca8cfcebfc61c6f5974d7dcacc
-SHA1: 5709e4369c23a7a22d2f00b71eedc5423cff53ae
-SHA256: 019dca92428da57d29a7e375baecf84cbdb7b364eba1ce4bb197e867d5cdd00d
-SHA512: 767e8912c760c6b8ce104cbdecd187a5b3bb42ca19172bd5c70adbf3b82382c516c30b37fea2a9c2e3bb2559d3e3a87423e99e8fea708d8163830e0afe716762
-Description: Trình quản lý gói hữu ích
-Name: Zebra
-Author: Wilson Styres
-Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.zebra
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/N95.png
-
+Maintainer: Evelyn (ev_ynw) <ev.ynam.w@gmail.com>
+Depends: com.evynw.repoicons (>= 1.2)
+Filename: ./debs/com.evynw.ew1msgbubbles_1.1_iphoneos-arm.deb
+Size: 28156
+MD5sum: 7e676e305212ec5a1963975be0b3777f
+SHA1: 2f2519e7c639cc7ec1ed0f65f84dc0bf1ecca948
+SHA256: 321ec5d0e92b076cabac7b3f4cb276bfe503c844e750df4e122e558019538a8f
+Section: Theme Bits
+Description: Bubbles for both Messages.app & WhatsApp.
+Author: Evelyn (ev_ynw)
+Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
+Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Name: EW1.MessageBubbles
+Sileodepiction: https://evynw.github.io/sileo/ew1msgbubbles.json

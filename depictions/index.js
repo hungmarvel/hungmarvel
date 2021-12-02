@@ -80,7 +80,7 @@ $(document).ready(function () {
         var currentVersion = iOSVersion();
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
-            var result = "<strong>Tương thích với iOS ";
+            var result = "<strong>Compatible with iOS ";
 
             if (typeof data.minOSVersion != 'undefined') {
                 result += data.minOSVersion;
@@ -97,11 +97,11 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Phiên bản iOS của bạn (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
+                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
-                result += "<strong>Not confirmed</strong> để hoạt động trên phiên bản iOS của bạn";
+                result += "<strong>Not confirmed</strong> to work on your iOS version";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                 result += " &#x1F914;";
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
@@ -166,9 +166,9 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Theo dõi tôi trên Twitter (hungmarvel)</span>": "https://twitter.com/hungmarvel",
-            "<img class=\"icon\" src=\"icons/email.png\"><span>Báo lỗi qua email</span>": "mailto:hungmarvel@gmail.com",
-            "<img class=\"icon\" src=\"icons/like.png\"><span>Ủng hộ tôi cốc &#x1F37A; qua <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/hungmarvel"
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@ev_ynw)</span>": "https://twitter.com/ev_ynw",
+            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:ev.ynam.w@gmail.com",
+            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/evynw"
         };
         $.extend(links, extra);
         var lKeys = Object.keys(links);
