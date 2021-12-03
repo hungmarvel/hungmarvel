@@ -96,20 +96,20 @@
           "spacing": 16
         },
         {
-          "action": "https://twitter.com/ev_ynw",
+          "action": "https://twitter.com/hungmarvel",
           "class": "DepictionTableButtonView",
-          "title": "Find me on Twitter (@ev_ynw)",
+          "title": "Theo dõi tôi trên Twitter (@hungmarvel)",
           "openExternal": true
         },
         {
-          "action": "mailto:ev.ynam.w@gmail.com",
+          "action": "mailto:hungmarvel@gmail.com",
           "class": "DepictionTableButtonView",
-          "title": "Send me an email"
+          "title": "Báo lỗi cho tôi qua email"
         },
         {
-          "action": "https://paypal.me/evynw",
+          "action": "https://paypal.me/hungmarvel",
           "class": "DepictionTableButtonView",
-          "title": "Buy me a 🍺 via PayPal"
+          "title": "Ủng hộ tôi cốc 🍺 qua PayPal"
         },
         {
           "class": "DepictionSpacerView",
