@@ -80,7 +80,7 @@ $(document).ready(function () {
         var currentVersion = iOSVersion();
         if (typeof currentVersion === 'undefined' &&
             (typeof data.minOSVersion !== 'undefined' || typeof(data.maxOSVersion) !== 'undefined')) {
-            var result = "<strong>Compatible with iOS ";
+            var result = "<strong>đã tương thích";
 
             if (typeof data.minOSVersion != 'undefined') {
                 result += data.minOSVersion;
@@ -97,7 +97,7 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Your iOS version (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
+                result += "Phiên bản hiện tại (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
