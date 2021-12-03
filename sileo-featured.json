@@ -1,3 +1,1 @@
-{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"com.hungmarvel.amlich","title":"Amlich","url":"https://hungmarvel.github.io/Debinfo/Amlich/screenshots/logo.png","hideShadow":"false"},
-{"package":"xyz.willy.zebra","title":"Zebra","url":"https://hungmarvel.github.io/Debinfo/zebra/screenshots/logo.png","hideShadow":"false"},
-{"package":"me.apptapp.installer","title":"Installer","url":"https://hungmarvel.github.io/Debinfo/installer/screenshots/logo.png","hideShadow":"false"}]}
+{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"com.hungmarvel.amlich","title":"Âm Lịch","url":"https://hungmarvel.github.io/Debinfo/Amlich/screenshots/logo.png","hideShadow":"false"},
