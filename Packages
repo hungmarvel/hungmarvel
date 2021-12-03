@@ -11,7 +11,7 @@ SHA256: 321ec5d0e92b076cabac7b3f4cb276bfe503c844e750df4e122e558019538a8f
 Section: Theme Bits
 Description: Bubbles for both Messages.app & WhatsApp.
 Author: Evelyn (ev_ynw)
-Depiction: https://evynw.github.io/depictions/?p=com.evynw.ew1msgbubbles
-Icon: https://evynw.github.io/depictions/sectionIcons/Themes.png
+Depiction: https://hungmarvel.github.io/depictions/?p=com.evynw.ew1msgbubbles
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Themes.png
 Name: EW1.MessageBubbles
-Sileodepiction: https://evynw.github.io/sileo/ew1msgbubbles.json
+Sileodepiction: https://hungmarvel.github.io/sileo/ew1msgbubbles.json
