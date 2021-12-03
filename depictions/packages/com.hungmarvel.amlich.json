@@ -1,0 +1,25 @@
+{
+  "name": "Âm Lịch",
+  "package": "com.hungmarvel.amlich",
+  "author": "Hùng Marvel🕷",
+  "version": "0.1",
+  "dependency": "Việt Nam",
+  "minOSVersion": "12.0",
+  "maxOSVersion": "13.5",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Tinh chỉnh này giúp bạn hiển thị thêm âm lịch trên thanh trạng thái giúp bạn xem một cách dễ ràng hơi.<br><br>Sau khi cài xong nó sẻ hiển thị âm lịch trên thanh trạng thái của bạn<br><br><strong>Bạn cần giúp đỡ ư?</strong> Linh kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "2.1.0": [
+      "Tinh chỉnh giúp hiển thị âm lịch",
+            "Cải tiến một số tính năng"
+    ],
+    "?": [
+      "Không có phiên bản cũ"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}
