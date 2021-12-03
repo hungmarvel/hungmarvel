@@ -166,7 +166,7 @@ $(document).ready(function () {
 
         var links = data.links;
         var extra = {
-            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Theo dõi tôi trên Twitter (hungmarvel)</span>": "https://twitter.com/hungmarvel2110",
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Theo dõi tôi trên Twitter (hungmarvel2110)</span>": "https://twitter.com/hungmarvel2110",
             "<img class=\"icon\" src=\"icons/email.png\"><span>Báo lỗi cho tôi qua email</span>": "mailto:hungquangbui.ads@gmail.com",
             "<img class=\"icon\" src=\"icons/like.png\"><span>Ủng hộ tôi cốc &#x1F37A; qua <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/hungbg201"
         };
