@@ -1,4 +1,6 @@
-{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"com.hungmarvel.amlich","title":"Âm Lịch","url":"https://hungmarvel.github.io/Debinfo/Amlich/screenshots/logo.png","hideShadow":"false"},
-{"package":"org.coolstar.sileo","title":"Sileo","url":"https://hungmarvel.github.io/Debinfo/Sileo/screenshots/logo.png","hideShadow":"false"},
-{"package":"xyz.willy.zebra","title":"Zebra","url":"https://hungmarvel.github.io/Debinfo/Zebra/screenshots/logo.png","hideShadow":"false"},
-{"package":"me.apptapp.installer","title":"Installer","url":"https://hungmarvel.github.io/Debinfo/Installer/screenshots/logo.png","hideShadow":"false"}]}
+{"class":"FeaturedBannersView","itemSize":"{263, 148}","itemCornerRadius":8,"banners":[{"package":"com.hungmarvel.amlich","title":"Âm lịch","url":"https://hungmarvel.github.io/debinfo/amlicj/screenshots/logo.png","hideShadow":"false"},
+{"package":"jp.soh.reprovision","title":"Reprovision","url":"https://hungmarvel.github.io/debinfo/reprovision/screenshots/logo.png","hideShadow":"false"},
+{"package":"com.hungmarvel.altstore","title":"AltStore","url":"https://hungmarvel.github.io/debinfo/altstore/screenshots/logo.png","hideShadow":"false"},
+{"package":"org.coolstar.sileo","title":"Sileo","url":"https://hungmarvel.github.io/debinfo/sileo/screenshots/logo.png","hideShadow":"false"},
+{"package":"xyz.willy.zebra","title":"Zebra","url":"https://hungmarvel.github.io/debinfo/zebra/screenshots/logo.png","hideShadow":"false"},
+{"package":"me.apptapp.installer","title":"Installer","url":"https://hungmarvel.github.io/debinfo/installer/screenshots/logo.png","hideShadow":"false"}]}
