@@ -97,11 +97,11 @@ $(document).ready(function () {
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Phiên bản hiện tại (" + currentVersion + ") is <strong>compatible</strong> &#x1f607;";
+                result += "Phiên bản hiện tại (" + currentVersion + ") của bạn <strong>đã tương thích</strong> &#x1f607;";
                 // $(".version-check").css("color", "green");
                 $(".panel-body.version-check").css("background-color", "#a6d841");
             } else{
-                result += "<strong>Not confirmed</strong> to work on your iOS version";
+                result += "<strong>Phiên bản hiện tại</strong> không được hỗ trợ!";
                 result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
                 result += " &#x1F914;";
                 $(".panel-body.version-check").css("background-color", "#ffcc00");
