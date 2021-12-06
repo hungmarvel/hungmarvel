@@ -66,7 +66,8 @@ SHA256: df47fac20d328f2d6d9c25fe362b25b613e7a6118df9b1e79ce09189cfbe86bb
 SHA512: ec3328461560b500df1607bba6ffa3e74609774551b7942a70d349dc45720c4b1681536ce1ed2382375c86e5af5233f6b2865fcedbf366c4816ef8eff1a63d86
 Description: Khi cài có con mắt cử động ở màn hình khoá của bạn
 Name: Con Mắt Liếc
-Author: LittenDepiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.conmatliec
+Author: Litten
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.conmatliec
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Conmatliec.png
 
 Package: com.hungmarvel.libhdev
