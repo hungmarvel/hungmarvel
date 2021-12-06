@@ -52,23 +52,23 @@ Author: CrazyMind90
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.appeditor
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Appeditor.png
 
-Package: com.hungmarvel.conmatliec
+Package: com.hungmarvel.diary
 Architecture: iphoneos-arm
 Version: 1.0-508
 Section: Tinh chỉnh
 Maintainer: Hùng Marvel🕷
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
-Filename: ./debs/com.hungmarvel.conmatliec_1.0-508_iphoneos-arm.deb
-Size: 3390834
-MD5sum: 7f158fb4abaca918f3e5f8bc4af0a7b8
-SHA1: c9a90b82aa7911accec71886eda43c121530a2e3
-SHA256: df47fac20d328f2d6d9c25fe362b25b613e7a6118df9b1e79ce09189cfbe86bb
-SHA512: ec3328461560b500df1607bba6ffa3e74609774551b7942a70d349dc45720c4b1681536ce1ed2382375c86e5af5233f6b2865fcedbf366c4816ef8eff1a63d86
-Description: Khi cài có con mắt cử động ở màn hình khoá của bạn
-Name: Con Mắt Liếc
+Filename: ./debs/com.hungmarvel.diary_1.0-508_iphoneos-arm.deb
+Size: 3390808
+MD5sum: 178ad6b27e479cca3e4a7786bbbd5ceb
+SHA1: c187f509dc65c443f7b895497a395f7e280a8947
+SHA256: 0327c1c46d23e5b65cb53edd4204acd4d9ec883fa7f95ae555b03d46b03432bc
+SHA512: e53cf03ff45c8a7f93b978b13402b751461615113ba834bf0b78b8d891eef7457162703226191f7cd1992e0a9b40879a79fd5ab9a9e2e9f6a18cd3ad303f3098
+Description: Hiển thị Màn hình khoá theo kiểu Windows 10 cho iOS.
+Name: Diary
 Author: Litten
-Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.conmatliec
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/Conmatliec.png
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.diary
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Diary.png
 
 Package: com.hungmarvel.libhdev
 Architecture: iphoneos-arm
