@@ -1,6 +1,6 @@
 {
   "class": "DepictionTabView",
-  "headerImage": "https://hungmarvel.github.io/sileo/assets/conmatliec.png",
+  "headerImage": "https://hungmarvel.github.io/sileo/assets/diary.png",
   "minVersion": "0.3",
   "tabs": [
     {
@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Tinh chỉnh này sẽ cho người dùng thêm một con mắt ảo ở màn hình khoá nó có thể cử động trái phải liếc ngang dọc nhìn rất là vui mắt.</p>\n<p style=\"font-size:10pt;\">Tạo cảm giác cho người dùng là chiếc điện thoại đang chờ bạn để mở khoá.</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+          "markdown": "<p style=\"font-size:10pt;\">Hiển thị Màn hình khoá theo kiểu Windows 10 cho iOS.</p>\n<p style=\"font-size:10pt;\">Nó hoàn chỉnh với thông tin đăng nhập kiểu Windows 10, các biểu tượng màn hình khoá kiểu Windows 10 và hơn thế nữa. Tweak có rất nhiều tuỳ chỉnh và bạn có thể tự do làm chủ màn hình khoá kiểu Windows 10 của bạn.</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
           "useRawFormat": true
         },
         {
@@ -35,11 +35,11 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.conmatliec/ss1.png"
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.diary/ss1.png"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.conmatliec/ss2.png"
+              "url": "https://hungmarvel.github.io/depictions/screenshots/com.hungmarvel.diary/ss2.png"
             }
           ]
         },
