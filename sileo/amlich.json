@@ -16,7 +16,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\">Tinh chỉnh này sẽ giúp người dùng hiển thị được âm lịch ngay trên thanh trạng thái, lưu ý chỉ hoạt động từ iPhone X trở nên hoặc giả lập X</p>\n<p style=\"font-size:10pt;\">Sau khi cài có thể  tinh chỉnh theo nhu cầu mong muốn!</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+          "markdown": "<p style=\"font-size:10pt;\">Hiển thị ngày tháng bên dưới đồng hồ trên thanh StatusBar.</p>\n<p style=\"font-size:10pt;\">Đối với những thiết bị không phải iPX , Yêu cầu giả lập iPX để có thể sử dụng.</p>\n<p style=\"font-size:10pt;\"><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
           "useRawFormat": true
         },
         {
