@@ -159,3 +159,37 @@ Name: rocketbootstrap
 Author: Ryan Petrich
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.rocketbootstrap
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
+
+Package: com.hungmarvel.fontgooglesans10012
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Phông chữ
+Maintainer: Hùng Marvel🕷
+Filename: ./debs/com.hungmarvel.fontgooglesans10012_1.0_iphoneos-arm.deb
+Size: 9702406
+MD5sum: c8727fa2011cbd81927d81e99ec996ab
+SHA1: 950c7c0ce5929c8526a7001010df26919dc0706f
+SHA256: 7e812f8f80cf9c60945db4c1de340b86e1db3ab6163f76d7fe48be65ac881640
+SHA512: 6c3ed40ed9e655812f70863eed66c2a21191d650af7585ab1b6eba585d722383f33b3c619c5af58f549c7c85f17bc7e13a762eb681df890d572452260c889208
+Description: Phông chữ có kích thước là 100%.
+Name: Google Sans 100%
+Author: Alex (@alexman1979)
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans10012
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font1.png
+
+Package: com.hungmarvel.fontgooglesans8512
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Phông chữ
+Maintainer: Hùng Marvel🕷
+Filename: ./debs/com.hungmarvel.fontgooglesans8512_1.0_iphoneos-arm.deb
+Size: 10258290
+MD5sum: a6284a88f089a9f2326144a0aaf6d119
+SHA1: 4c97f2b6ba00c53b25c5e3c5043c352dc0cec07b
+SHA256: 59dbd18f492987c5209fae9bcd55ad4e61551a4decc7dbe846934d4adbd4b1e3
+SHA512: 72022ff5e4eb87375da3eab7eeaf68135203d0a33a6405313925858b523f819979cad95b4444bda5fb605d5f77c65687f896dd687ad7b1611ac067de37ef4bab
+Description: Phông chữ có kích thước là 85%.
+Name: Google Sans 85%
+Author: Alex (@alexman1979)
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans8512
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font.png
