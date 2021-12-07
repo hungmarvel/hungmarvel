@@ -155,7 +155,7 @@ SHA1: daad6edf2e4bd51c6e3d51d4442e68602eb313fb
 SHA256: b054eba7f4c93ebfa662b890938d3b7f59cd466d1e3e068d5bc99725cbcb0dd8
 SHA512: 7dccfcfe4f593bc12983ff28dfc3ab9b314c2a176dd6bfe04002cf2cca5bbc9aa35bea9dbc5681b254f464cb7cfdb218200e8adb2a0f4c95b0b3a36ce7d227ce
 Description: Hỗ trợ thư viện cho phép các chỉnh sửa hoạt động.
-Name: RocketBootstrap
+Name: rocketbootstrap
 Author: Ryan Petrich
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.rocketbootstrap
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
