@@ -105,3 +105,57 @@ Name: TikTok God
 Author: Hao Nguyen
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.tiktokgod
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Tiktok.png
+
+Package: com.hungmarvel.libnotifications
+Architecture: iphoneos-arm
+Version: 0.3-5
+Section: Hệ thống
+Maintainer: Hùng Marvel🕷
+Depends: firmware (>= 8.0)
+Filename: ./debs/com.hungmarvel.libnotifications_0.3-5_iphoneos-arm.deb
+Size: 162718
+MD5sum: a38a22e48a199e24e14ceef6f936ec25
+SHA1: 1081a9081acc18cd59448f990667b63e97a667fc
+SHA256: e4d7187c77d6a101bc9b63786f1510f6f2a097195c64b7f80cda819ba554d3d8
+SHA512: faac176ad1730bdf7d2319177ca3d545a38e3940560db5ca53142d7217d6bc89b09c2e4bb60cb8e672e43fb3196df86e0255d34d1496beed66851bbc11cf6ca3
+Description: Thư viện thông báo ứng dụng.
+Name: libnotifications
+Author: CokePokes
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.libnotificattions
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
+
+Package: com.hungmarvel.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.3~release
+Section: Tiện ích
+Maintainer: Hùng Marvel🕷
+Depends: firmware (>= 9.0)
+Filename: ./debs/com.hungmarvel.reprovision_0.8.3~release_iphoneos-arm.deb
+Size: 16789128
+MD5sum: 1e2c1436f90c0dcdf8066e8e8ea672d3
+SHA1: 84d58f2be75162eb38dea251a5377226531b4a2d
+SHA256: 44657b56ed0939b4275e51cbedd209d4ef6613f11c674334715a54db9c020ab9
+SHA512: 9ba94a3458353b22496b33d4ed4e6adb399718cf7d9be4aeb9f19b4140abbe478cd6bf95c2651476f385663b9d19a6cea7e920342407aedd4328e4b71b5b0afa
+Description: Gia hạn chứng chỉ app thứ ba.
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.reprovision
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Reprovision.png
+
+Package: com.hungmarvel.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta1
+Section: Hệ thống
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./debs/com.hungmarvel.rocketbootstrap_1.0.10~beta1_iphoneos-arm.deb
+Size: 68626
+MD5sum: f92634ea9d3740ae961178357fe63025
+SHA1: daad6edf2e4bd51c6e3d51d4442e68602eb313fb
+SHA256: b054eba7f4c93ebfa662b890938d3b7f59cd466d1e3e068d5bc99725cbcb0dd8
+SHA512: 7dccfcfe4f593bc12983ff28dfc3ab9b314c2a176dd6bfe04002cf2cca5bbc9aa35bea9dbc5681b254f464cb7cfdb218200e8adb2a0f4c95b0b3a36ce7d227ce
+Description: Hỗ trợ thư viện cho phép các chỉnh sửa hoạt động.
+Name: RocketBootstrap
+Author: Ryan Petrich
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.rocketbootstrap
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Hethong.png
