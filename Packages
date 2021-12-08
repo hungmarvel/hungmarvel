@@ -175,7 +175,7 @@ Description: Phông chữ có kích thước là 100%.
 Name: Google Sans 100%
 Author: Alex (@alexman1979)
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans10012
-Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font1.png
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font.png
 
 Package: com.hungmarvel.fontgooglesans8512
 Architecture: iphoneos-arm
@@ -193,3 +193,22 @@ Name: Google Sans 85%
 Author: Alex (@alexman1979)
 Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans8512
 Icon: https://hungmarvel.github.io/depictions/sectionIcons/Font.png
+
+Package: com.hungmarvel.a-font
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tinh chỉnh
+Maintainer: Hùng Marvel🕷
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./debs/com.hungmarvel.a-font_1.5.1_iphoneos-arm.deb
+Size: 834440
+MD5sum: f551ca0a392249f51742813e6cfbd356
+SHA1: c4da96360a31672c42698512f0d93cdcff17cf5f
+SHA256: b72413489993d13b5cdf94fddaa9eb3f5af2214ecfd6bfb6bb1510b6e978d7aa
+SHA512: 2f732b5fb2fccaf1e90f71071b09884126e371f0d36fea5e673038682372354a8c6ea8eba2c4be58ad37e76270f9e6c595baef82df893ecc313aa6b2718cc578
+Description: Thay đổi phông chữ trên thiết bị của bạn.
+Name: A-Font
+Author: Baw Appie
+Depiction: https://hungmarvel.github.io/depictions/?p=com.hungmarvel.fontgooglesans8512
+Icon: https://hungmarvel.github.io/depictions/sectionIcons/A-font.png
+
